@@ -5,7 +5,7 @@
     <parent>
         <artifactId>registry-examples</artifactId>
         <groupId>com.hortonworks.registries</groupId>
-        <version>0.7.0</version>
+        <version>0.7.0.3.4.1.24-3</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
